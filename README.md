@@ -1,5 +1,8 @@
 IRKit Device
 ===
+OBJETIVO:Testar o codigo em um arduino e nodemcu.
+
+===
 
 IRKit device and [IRKit SDK](https://github.com/irkit/ios-sdk) lets you control your home electronics from your iOS and Android devices.
 IRKit device has a Infrared LED and receiver, and a WiFi module inside.
